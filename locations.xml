@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locations>
+  <location>
+	<country>US</country>
+	<zipcode>73114</zipcode>
+    <city>Oklahoma City</city>
+	<statename>Oklahoma</statename>
+	<statecode>Ok</statecode>
+	<county>Oklahoma</county>
+	<latitude></latitude>
+	<longitude></longitude>
+  </location>
+  <location>
+	<country>US</country>
+	<zipcode>73013</zipcode>
+    <city>Edmond</city>
+	<statename>Oklahoma</statename>
+	<statecode>Ok</statecode>
+	<county>Oklahoma</county>
+	<latitude></latitude>
+	<longitude></longitude>
+  </location>
+  <location>
+  	<country>US</country>
+	<zipcode>73858</zipcode>
+    <city>Shattuck</city>
+	<statename>Oklahoma</statename>
+	<statecode>Ok</statecode>
+	<county>Ellis</county>
+	<latitude></latitude>
+	<longitude></longitude>
+  </location>
+</locations>
